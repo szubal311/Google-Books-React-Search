@@ -1,5 +1,6 @@
 import React from "react";
 import {Jumbotron, Container} from "react-bootstrap";
+import "./style.css";
 
 function Heading() {
   return (

@@ -1,0 +1,18 @@
+.jumbotron {
+    background-image: url(https://images.freeimages.com/images/small-previews/776/book-1568015.jpg);
+    background-size: cover;
+    height: 600px;
+    margin-top: -23%;
+}
+
+.container {
+    margin-top: 10%;
+    padding-top: 15%;
+    margin-left: 15%;
+    color: gray;
+    font-size: larger;
+}
+
+.search {
+    padding-right: 10%;
+}
